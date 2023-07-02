@@ -53,28 +53,24 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#사전준비">사전준비</a></li>
-   <li><a href="#저장소 복제">저장소 복제</a></li>
-        <li><a href="#데이터베이스 구성">데이터베이스 구성</a></li>
-   <li><a href="#데이터베이스 테이블 생성 쿼리">데이터베이스 테이블 생성 쿼리</a></li>
-   <li><a href="#데이터베이스 연결">데이터베이스 연결</a></li>
-   <li><a href="#설치">설치</a></li>
+        <li><a href="#저장소 복제">저장소 복제</a></li>
+        <li><a href="#설치">설치</a></li>
       </ul>
     </li>
     <li>
-   <a href="#사용방법 및 기능소개">사용방법 및 기능소개</a>
+   <a href="#사용방법">사용방법</a>
      <ul>
-         <li><a href="#기능소개">기능소개</a></li>
+      <li><a href="#기능소개">기능소개</a></li>
+      <li><a href="#더미계정">더미계정</a></li>
       <li><a href="#사용방법">사용방법</a></li>
      </ul>
     </li>
     <li><a href="#요구사항">요구사항</a></li>
-    <li><a href="#Team">Collaborator</a></li>
+    <li><a href="#Collaborator">Collaborator</a></li>
     <li>
        <a href="#Etc">Etc..</a>
        <ul>
-          <li><a href="#작업서류">작업서류</a></li>
           <li><a href="#PPT">PPT</a></li>
-          <li><a href="#Digital Prototyping">Digital Prototyping</a></li>
           <li><a href="#프로젝트 후기">프로젝트 후기</a></li>
        </ul>
     </li>
@@ -93,7 +89,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="images/1.png" >
+<img src="images/4.png" >
 
 <br>
 JAVA CLI Project <br>
