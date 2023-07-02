@@ -237,6 +237,8 @@ Team Project
 <img src="images/ppt/11.PNG">
 <img src="images/ppt/12.PNG">
 <img src="images/ppt/13.PNG">
+<img src="images/ppt/14.PNG">
+<img src="images/ppt/15.PNG">
 </details>
 
 <br>
